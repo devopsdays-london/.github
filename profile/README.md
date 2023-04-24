@@ -8,12 +8,12 @@ DevOpsDays is a worldwide series of community run technical conferences covering
 
 ## Find out more
 
-- [Sponsor the Conference](https://devopsdays.london/2022/sponsor)
-- [Propose a Talk](https://devopsdays.london/2022/propose)
-- [Get a Ticket](https://devopdays.london/2022/tickets)
+- [Sponsor the Conference](https://devopsdays.london/2023/sponsor)
+- [Propose a Talk](https://devopsdays.london/2023/propose)
+- [Get a Ticket](https://ti.to/devopsdays-london/2023)
 - [Get the latest announcements](https://devopsdays.us18.list-manage.com/subscribe?u=6c07d2ff23793b0dda5929f46&id=7aba07ba8c)
-- [Contact us](https://devopsdays.org/events/2022-london/contact)
+- [Contact us](https://devopsdays.org/events/2023-london/contact)
 
-## Location
+## Location (2023)
 
-Kia Oval, Kennington, London SE11 5SS
+Queen Elizabeth II Centre, Broad Sanctuary, London, SW1P 3EE
